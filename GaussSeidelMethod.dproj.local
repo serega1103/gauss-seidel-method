@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.209,C:\Users\Игорь\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi My Projects\gauss_seidel_method.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,C:\Delphi My Projects\Project1.dproj=C:\Delphi My Projects\Gauss.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.052,C:\Delphi My Projects\Gauss.dproj=C:\Delphi My Projects\GaussSeidelMethod.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,C:\Users\Игорь\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi My Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.209,C:\Users\Игорь\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Delphi My Projects\gauss_seidel_method.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,=C:\Users\Игорь\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
